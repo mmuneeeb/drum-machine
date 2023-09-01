@@ -1,4 +1,2 @@
-# Drum Machine
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mmuneeeb/pen/ExdEGPr](https://codepen.io/mmuneeeb/pen/ExdEGPr).
-
+This is my solution for the personal library project for Data Visualization module on freecodecamp.org. View on codepen: https://codepen.io/mmuneeeb/pen/ExdEGPr.
